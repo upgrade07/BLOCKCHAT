@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div className="h-screen overflow-y-scroll bg-gradient-to-b from-black to-sky-800 overflow-hidden">
       <Head>
-        <title>Metator</title>
+        <title>BlockChat</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
      
