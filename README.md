@@ -1,4 +1,4 @@
-# Metator  (decentralized chatting app)
+# BLOCKCHAT  (decentralized chatting app)
 ## Next.js + Tailwind CSS 
 ## Metamask + Web3 + Moralis
 
