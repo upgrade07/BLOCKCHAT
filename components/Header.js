@@ -20,7 +20,7 @@ function Header() {
                 <div className=" relative h-40 w-40 lg:mx-auto border-sky-500 border-4 rounded-full">
                     <div><Avatar logoutOnPress/></div>
                 </div>
-                <h1 className="text-2xl">Welcome to Metator</h1>
+                <h1 className="text-2xl">Welcome to BlockChat</h1>
                 <h2 className="text-3xl font-bold truncate">{user.getUsername()}</h2>
                 <ChangeUsername/>
                 </div>
