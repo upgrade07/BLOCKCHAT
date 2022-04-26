@@ -35,7 +35,7 @@ function Login() {
 
             <div className="w-full h-screen">
                  <Image
-                    src="/bg5.jpg"
+                    src="/bg3.jpg"
                     layout="fill"
                     objectFit="cover"
 
