@@ -15,16 +15,22 @@ function Login() {
                    height={200}
                /> */}
               </div>
-               <h1 className="text-5xl font-semibold mb-12">
+                            <div class="max-w-sm rounded overflow-hidden shadow-lg">
+  
+  <div class="px-8 py-16" style={{backgroundColor:'rgba(255, 255, 255, 0.8)'}}>
+  <h1 className="text-5xl font-semibold mb-8 mx-2" style={{color:'black', fontWeight:'600'}}>
                    BlockChat
                </h1>
-               <button onClick={authenticate} className="bg-sky-200 items-center flex  rounded-lg p-4 text-black animate-pulse ">LOGIN  WITH METAMASK 
+               <button onClick={authenticate} className="border-solid border-black border-2 bg-sky-200 items-center flex  rounded-lg p-4 text-black animate-pulse ">LOGIN  WITH  METAMASK
                <Image
                    src="/metaicon.png"
                   className="item-center"
                   width={35}
                   height={35}
                /></button>
+  </div>
+ 
+</div>
             </div>
 
             <div className="w-full h-screen">
