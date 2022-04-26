@@ -15,7 +15,7 @@ function Login() {
                    height={200}
                /> */}
               </div>
-               <h1 className="text-5xl font-semibold mb-8">
+               <h1 className="text-5xl font-semibold mb-12">
                    BlockChat
                </h1>
                <button onClick={authenticate} className="bg-sky-200 items-center flex  rounded-lg p-4 text-black animate-pulse ">LOGIN  WITH METAMASK 
